@@ -666,4 +666,3 @@ Após completar os exercícios, você deve ser capaz de:
 - [Wazuh Ruleset](https://documentation.wazuh.com/current/user-manual/ruleset/index.html)
 - [Splunk Search Tutorial](https://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial)
 
-Bons estudos! 🚀
