@@ -1,5 +1,9 @@
 # 💻 Comandos Utilizados - Enterprise SOC Lab
 
+**Autora:** Natália Grossi
+**LinkedIn:** [https://www.linkedin.com/in/natália-grossi-26bbb8374](https://www.linkedin.com/in/natália-grossi-26bbb8374)
+**Data:** Dezembro/2025
+
 Referência completa de comandos Linux e PowerShell usados no laboratório SOC.
 
 ---
