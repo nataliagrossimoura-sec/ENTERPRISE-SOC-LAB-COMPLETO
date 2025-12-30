@@ -1,5 +1,10 @@
 # 🚀 Guia Completo de Instalação - Enterprise SOC Lab
 
+**Autora:** Natália Grossi
+**LinkedIn:** [https://www.linkedin.com/in/natália-grossi-26bbb8374](https://www.linkedin.com/in/natália-grossi-26bbb8374)
+**Data:** Dezembro/2025
+**Status:** ✅ Ambiente 100% operacional
+
 Este guia contém **instruções passo a passo** para construir o laboratório SOC completo do zero.
 
 **Tempo estimado total:** 8-12 horas
