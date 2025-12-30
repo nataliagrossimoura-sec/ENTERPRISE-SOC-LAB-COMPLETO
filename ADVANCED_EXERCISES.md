@@ -1,5 +1,9 @@
 # 🎯 Exercícios Avançados - Enterprise SOC Lab
 
+**Autora:** Natália Grossi
+**LinkedIn:** [https://www.linkedin.com/in/natália-grossi-26bbb8374](https://www.linkedin.com/in/natália-grossi-26bbb8374)
+**Data:** Dezembro/2025
+
 Exercícios avançados para aprofundar habilidades de Analista SOC e Blue Team.
 
 ---
