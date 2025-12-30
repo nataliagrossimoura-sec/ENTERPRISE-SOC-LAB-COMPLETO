@@ -1,5 +1,9 @@
 # 🔧 Scripts - Enterprise SOC Lab
 
+**Autora:** Natália Grossi
+**LinkedIn:** [https://www.linkedin.com/in/natália-grossi-26bbb8374](https://www.linkedin.com/in/natália-grossi-26bbb8374)
+**Data:** Dezembro/2025
+
 Coleção de scripts automatizados para instalação, configuração e testes do laboratório SOC.
 
 ---
