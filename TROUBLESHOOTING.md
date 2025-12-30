@@ -1,5 +1,9 @@
 # 🔧 Troubleshooting - Solução de Problemas
 
+**Autora:** Natália Grossi
+**LinkedIn:** [https://www.linkedin.com/in/natália-grossi-26bbb8374](https://www.linkedin.com/in/natália-grossi-26bbb8374)
+**Data:** Dezembro/2025
+
 Guia completo para resolver problemas comuns no Enterprise SOC Lab.
 
 ---
