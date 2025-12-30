@@ -1,4 +1,3 @@
-# ENTERPRISE-SOC-LAB-COMPLETO
 # 🔐 Enterprise SOC Lab - Laboratório Completo de Segurança
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -467,7 +466,6 @@ Este projeto está sob a licença MIT. Veja [LICENSE-MIT.md](LICENSE-MIT.md) par
 
 **Natália Grossi**  
 - LinkedIn: [linkedin.com/in/natália-grossi-26bbb8374](https://www.linkedin.com/in/natália-grossi-26bbb8374)  
-- Email: *(adicionar se desejar)*  
 - GitHub: [@nataliagrossimoura-sec](https://github.com/nataliagrossimoura-sec)
 
 ---
